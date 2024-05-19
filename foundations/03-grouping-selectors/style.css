@@ -1,0 +1,14 @@
+.AP{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.AP.Biologique{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.AP.Calcoolus{
+    background-color: yellow;
+}
